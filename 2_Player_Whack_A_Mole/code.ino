@@ -26,7 +26,7 @@ int P2score = 0;
 
 int activeIndex = -1;
 unsigned long moleStartTime = 5000;
-unsigned long moleInterval = 100;
+unsigned long moleInterval = 400;
 unsigned long moleOffTime = 5000;
 
 bool moleActive = false;
